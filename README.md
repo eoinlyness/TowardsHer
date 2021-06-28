@@ -1,7 +1,7 @@
 # Towards 'Her': An AI that Understands You
 MEng Computer Science Research Project at Queen's University Belfast 2020-21  
-Title: Towards 'Her': An AI that Understands You  
-Author: Eoin Lyness
+<b>Title:&emsp;Towards 'Her': An AI that Understands You  
+Author:&emsp;Eoin Lyness</b>
 
 # Abstract
 As more of our personal data is collected by large tech companies, there has been an increasing need for an approach to software development and machine learning that focuses on 
