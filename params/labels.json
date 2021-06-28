@@ -1,0 +1,23 @@
+{
+    "Mood": {
+        ":1": "Unhappy",
+        "0": "Neutral",
+        "1": "Happy"
+    },
+    "Activity": {
+        "11": "At home",
+        "31": "Going for a walk",
+        "101": "Call/text to/from friend",
+        "102": "Call/text to/from family",
+        "110": "Sleeping",
+        "1110": "Working",
+        "3721": "Shopping", 
+        "5140": "Phone call",
+        "5141": "Text message",
+        "7190": "Browsing/taking photos",
+        "7231": "Browsing internet",
+        "7241": "Social media",
+        "8220": "Watching videos/movies",
+        "8320": "Listening to music"
+    }
+}

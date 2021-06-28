@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activity Monitor</string>
+    <string name="ReadBrowserDescription">Service required to monitor your web browsing activity while the app is running.</string>
+</resources>

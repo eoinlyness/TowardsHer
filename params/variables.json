@@ -1,0 +1,167 @@
+{
+    "apps": {
+        "5140": [
+            {
+                "applicationName": "Phone",
+                "packageName": "com.google.android.dialer"
+            }   
+        ],
+        "5141":[
+            {
+                "applicationName": "Messages",
+                "packageName": "com.google.android.apps.messaging"
+            }
+        ],
+        "7190":[
+            {
+                "applicationName": "Photos",
+                "packageName": "com.google.android.apps.photos"
+            }
+        ],
+        "7231":[
+            {
+                "applicationName": "Chrome",
+                "packageName": "com.android.chrome"
+            }
+        ],
+        "7241":[
+            {
+                "applicationName": "Instagram",
+                "packageName": "com.instagram.android"
+            },
+            {
+                "applicationName": "Facebook",
+                "packageName": "com.facebook.katana"
+            },
+            {
+                "applicationName": "Snapchat",
+                "packageName": "com.snapchat.android"
+            },
+            {
+                "applicationName": "Reddit",
+                "packageName": "com.reddit.frontpage"
+            },
+            {
+                "applicationName": "Twitter",
+                "packageName": "com.twitter.android"
+            },
+            {
+                "applicationName": "Messenger",
+                "packageName": "com.facebook.orca"
+            },
+            {
+                "applicationName": "Gmail",
+                "packageName": "com.google.android.gm"
+            }
+        ],
+        "8220":[
+            {
+                "applicationName": "YouTube",
+                "packageName": "com.google.android.youtube"
+            },
+            {
+                "applicationName": "Netflix",
+                "packageName": "com.netflix.mediaclient"
+            }
+        ],
+        "8320":[
+            {
+                "applicationName": "Spotify",
+                "packageName": "com.spotify.music"
+            }
+        ]    
+    },
+    "addresses":{
+        "11":[
+            {
+                "address": [
+                    "29 Pine Rd, Oaktown AB11 1AZ, UK"
+                ],
+                "latitude": 54.391897,
+                "longitude": -6.313737
+            }
+        ],
+        "31":[            
+            {
+                "address": [
+                    "18 Pine Rd, Oaktown AB11 1AZ, UK"
+                ],
+                "latitude": 54.400612, 
+                "longitude": -6.314159
+            },
+            {
+                "address": [
+                    "44 Pine Rd, Oaktown AB11 1AB, UK"
+                ],
+                "latitude": 54.404431, 
+                "longitude": -6.318999
+            },
+            {
+                "address": [
+                    "86 Beech Road, Oaktown AB11 1AB, UK"
+                ],
+                "latitude": 54.408024, 
+                "longitude": -6.321012
+            },
+            {
+                "address": [
+                    "64 Beech Road, Oaktown AB11 1AQ, UK"
+                ],
+                "latitude": 54.404098, 
+                "longitude": -6.326161
+            },
+            {
+                "address": [
+                    "92 Beech Street, Oaktown AB11 1AW, UK"
+                ],
+                "latitude": 54.401842, 
+                "longitude": -6.323456
+            },
+            {
+                "address": [
+                    "82 Beech Street, Oaktown AB11 1AW, UK"
+                ],
+                "latitude": 54.397876,
+                "longitude": -6.324042
+            },
+            {
+                "address": [
+                    "61 Beach Street, Oaktown AB11 1AA, UK"
+                ],
+                "latitude": 54.393393,
+                "longitude": -6.323012
+            },
+            {
+                "address": [
+                    "9 Fir Road, Oaktown AB11 1AA, UK"
+                ],
+                "latitude": 54.394011, 
+                "longitude": -6.318681
+            },
+            {
+                "address": [
+                    "10 Fir Road, Oaktown AB11 1AB, UK"
+                ],
+                "latitude": 54.393383, 
+                "longitude": -6.313131
+            }
+        ]    
+    },   
+    "urls": {
+        "3721":[
+            "amazon.co.uk",
+            "ebay.co.uk"     
+        ],
+        "7231":[
+            "bbc.co.uk/news",
+            "reddit.com",
+            "en.m.wikipedia.org",
+            "pitchfork.com",
+            "nme.com",
+            "mirror.co.uk",
+            "independent.co.uk",
+            "cnn.com",
+            "nytimes.com"
+        ]
+    }   
+}
